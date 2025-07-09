@@ -169,6 +169,7 @@ body {
 .hero-section h1 {
     background: linear-gradient(90deg, var(--primary), var(--secondary));
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 800;
     letter-spacing: 1px;
